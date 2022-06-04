@@ -1,0 +1,1 @@
+Nieuw in 1.14(.10): Cum streak rewards, random NSFW link command (/randomlink), en een status command (/status).
